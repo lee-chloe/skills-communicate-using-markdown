@@ -11,3 +11,8 @@ Now I will try to add a code block in the correct formatting:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+Now I will practice making a list: 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
