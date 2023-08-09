@@ -2,3 +2,6 @@
 ## This is an H2 Header 
 #### This is an H4 Header 
 ###### This is an H6 Header 
+
+This is an image of the GitHub Yaktocat: 
+![Image of Yaktocat in a weird outfit](https://octodex.github.com/images/yaktocat.png)
